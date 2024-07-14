@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="059985aa-3aec-4c54-b698-ef2ef742620f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_20121008_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conversor_De_Moeda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dependencia/gson-2.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dependencia/json-20121008-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Conversor_De_Moeda/CurrencyConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
-    </list>
+    <list default="true" id="059985aa-3aec-4c54-b698-ef2ef742620f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
