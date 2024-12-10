@@ -22,7 +22,7 @@ O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, conta
    - Curva de permanência de vazões.
 6. **Exportação**:
    - Salvar dados processados em formato CSV.
-
+     
 # Requisitos
 
 - Python 3.7 ou superior
@@ -31,7 +31,7 @@ O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, conta
   - `numpy`
   - `matplotlib`
   - `tkinter`
-
+   
 # Importações necessárias para a interface gráfica e manipulação de dados
 - import tkinter as tk
 - from tkinter import Menu, filedialog, messagebox, ttk
@@ -55,8 +55,6 @@ O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, conta
     
     Exibe os dados de um DataFrame em formato tabular interativo no Tkinter.
     - Permite rolagem horizontal e vertical.
-  
-# Código da função...
 
 - def calcular_medias():
     
