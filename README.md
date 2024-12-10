@@ -42,27 +42,27 @@ O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, conta
 # Explicação do código
 
 **Variável global para armazenar o DataFrame carregado**
-- planilha = None
-- df = None
+   - planilha = None
+   - df = None
 **Funções**
 - def abrir_arquivo():
-    """
+  
     Abre um arquivo CSV de vazões, realiza o pré-processamento e exibe os dados em uma tabela.
     - Garante o tratamento de colunas específicas (ex.: preenchimento de NaN).
     - Identifica o período dos dados e informa ao usuário.
-    """
+   
 - def exibir_tabela(df):
-    """
+    
     Exibe os dados de um DataFrame em formato tabular interativo no Tkinter.
     - Permite rolagem horizontal e vertical.
-    """
-    # Código da função...
+  
+# Código da função...
 
 - def calcular_medias():
-    """
+    
     Calcula as médias gerais das colunas 'Media', 'Maxima' e 'Minima'.
     - Mostra os resultados ao usuário em uma caixa de mensagem.
-    """
+
    **Configuração principal da janela e menu**
     root = tk.Tk()
     root.title("Análise de Vazões")
