@@ -3,9 +3,9 @@
 Este projeto é uma aplicação Python que utiliza `Tkinter` para criar uma interface gráfica que permite o processamento e a análise de dados de vazões. 
 O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, contando com a colaboração de:
 
-.André Pedro Gaspar
-.Ducher Maliqui  Seidi
-.Lucas José Garcia
+- André Pedro Gaspar
+- Ducher Maliqui  Seidi
+- Lucas José Garcia
 
 # Funcionalidades
 
