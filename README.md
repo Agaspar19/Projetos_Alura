@@ -58,13 +58,13 @@ O trabalho foi desenvolvido no âmbito da disciplina Projeto Integrador I, conta
 
    - def calcular_medias():
     
-       Calcula as médias gerais das colunas 'Media', 'Maxima' e 'Minima'.
+       - Calcula as médias gerais das colunas 'Media', 'Maxima' e 'Minima'.
        - Mostra os resultados ao usuário em uma caixa de mensagem.
 
    **Configuração principal da janela e menu**
-       - root = tk.Tk()
-       - root.title("Análise de Vazões")
-       - root.geometry("800x600")
+        - root = tk.Tk()
+        - root.title("Análise de Vazões")
+        - root.geometry("800x600")
 
    **Configuração do menu principal**
        - menu_principal = Menu(root)
