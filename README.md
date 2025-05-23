@@ -1,5 +1,5 @@
-Challenges da Alura
-Análise de Desempenho das 4 Lojas
+
+Análise de Desempenho de 4 Lojas
 Descrição
 Este projeto realiza uma análise de desempenho das quatro lojas, com o objetivo de avaliar métricas essenciais para tomada de decisão, como vendas, faturamento, ticket médio, e outras variáveis relevantes. A análise permite identificar pontos fortes, oportunidades de melhoria e tendências em cada loja para otimizar a gestão e estratégias comerciais.
 
