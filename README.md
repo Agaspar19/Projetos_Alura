@@ -1,5 +1,7 @@
-modelos preditivos 
+## Modelos preditivos
+
 📌 Visão Geral
+
 Este projeto tem como objetivo prever quais clientes possuem maior probabilidade de cancelar os serviços da empresa (Telecom X).
 A previsão antecipada da evasão permite ações estratégicas de retenção, aumentando a receita e reduzindo perdas.
 
