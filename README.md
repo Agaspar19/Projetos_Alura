@@ -1,11 +1,11 @@
 ## Modelos preditivos
 
-📌 Visão Geral
+## Visão Geral
 
 Este projeto tem como objetivo prever quais clientes possuem maior probabilidade de cancelar os serviços da empresa (Telecom X).
 A previsão antecipada da evasão permite ações estratégicas de retenção, aumentando a receita e reduzindo perdas.
 
-🎯 Objetivos do Desafio
+## Objetivos do Desafio
 
 Preparar os dados para a modelagem (tratamento, encoding, normalização).
 
@@ -19,19 +19,20 @@ Interpretar os resultados, incluindo a importância das variáveis.
 
 Criar uma conclusão estratégica apontando os principais fatores que influenciam a evasão.
 
-🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Jupyter Notebook para exploração e análise
 
 Random Forest & Logistic Regression para modelagem
-📈 Resultados
+
+## Resultados
 Foram treinados dois modelos principais:
 
-Modelo	Accuracy	Precision	Recall	F1	ROC AUC
-Logistic Regression	0.746	0.612	0.319	0.420	0.747
-Random Forest	0.734	0.539	0.398	0.458	0.744
+Modelo	            Accuracy	 Precision	 Recall	F1	   ROC AUC
+Logistic Regression 	0.746 	 0.612	     0.319 	0.420	 0.747
+Random Forest	       0.734	  0.539     	0.398   0.458	 0.744
 
-Top 5 variáveis mais importantes (Random Forest):
+## Top 5 variáveis mais importantes (Random Forest):
 
 Tipo de serviço telefônico e múltiplas linhas
 
@@ -43,7 +44,7 @@ Forma de pagamento
 
 Tempo de contrato
 
-📌 Conclusões Estratégicas
+## Conclusões Estratégicas
 
 Clientes com planos mensais e pagamento eletrônico apresentaram maior chance de evasão.
 
